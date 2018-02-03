@@ -1,2 +1,0 @@
-# nodejsstarter
-NodeJsStarter
